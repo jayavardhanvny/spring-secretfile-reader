@@ -1,0 +1,6 @@
+secrets:
+  filePath: file:///etc/config/secrets
+
+---
+secrets:
+  filePath: classpath:config/secrets
